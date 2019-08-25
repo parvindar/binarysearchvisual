@@ -1,0 +1,16 @@
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\bin\Release\Final_Project.exe.config
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\bin\Release\Final_Project.exe
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\bin\Release\Final_Project.pdb
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\bin\Release\Final_Project.xml
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.vbprojAssemblyReference.cache
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.CONTROLLER_2.resources
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.Resources.resources
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.vbproj.GenerateResource.cache
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.vbproj.CoreCompileInputs.cache
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.exe
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.xml
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.pdb
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\bin\Release\Final_Project.exe.manifest
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\bin\Release\Final_Project.application
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.exe.manifest
+C:\Users\psgenious\Documents\soft lab\Final_Project\Final_Project\obj\Release\Final_Project.application
